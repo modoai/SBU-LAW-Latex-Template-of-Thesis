@@ -1,0 +1,27 @@
+\contentsline {chapter}{مقدمه}{1}{section*.3}
+\contentsline {chapter}{ فصل اول: زمینه ها و مفاهیم}{7}{chapter*.5}
+\contentsline {subsection}{مدخل}{7}{section*.6}
+\contentsline {section}{گفتار اول: آغاز تغییرات; دورانسان}{7}{section*.7}
+\contentsline {subsection}{بند اول: مرحله اول (1945 – 50/1800)}{9}{section*.8}
+\contentsline {subsection}{بند دوم: مرحله دوم (2015- 1945)}{9}{section*.9}
+\contentsline {subsection}{بند سوم: مرحله سوم (تا... - 2015)}{10}{section*.10}
+\contentsline {section}{گفتار دوم: تغییرات‌اقلیمی}{11}{section*.11}
+\contentsline {subsection}{بند اول: تعریف}{12}{section*.12}
+\contentsline {subsubsection}{ اول: تغییرات‌اقلیمی یا آب‌و‌هوایی}{13}{section*.13}
+\contentsline {subsubsection}{ دوم: تغییرات‌اقلیمی و علل آن}{13}{section*.14}
+\contentsline {subsection}{بند دوم: تاثیرات تغییرات‌اقلیمی بر نظام اقلیم}{15}{section*.15}
+\contentsline {subsection}{بند سوم: تاثیرات تغییرات‌اقلیمی بر جوامع انسانی}{18}{section*.16}
+\contentsline {section}{گفتار سوم: حق بر آینده سبز}{24}{section*.17}
+\contentsline {subsection}{بند اول: آینده سبز}{24}{section*.18}
+\contentsline {subsection}{بند دوم: کودک}{25}{section*.19}
+\contentsline {subsection}{بند سوم: نسل های آینده}{26}{section*.20}
+\contentsline {subsubsection}{ اول: تعریف نسل‌های آینده}{27}{section*.21}
+\contentsline {subsubsection}{ دوم: تقسیم‌بندی نسل‌ها}{27}{section*.22}
+\contentsline {subsection}{*نتیجه‌گیری}{29}{section*.23}
+\contentsline {chapter}{فصل دوم: تاثیر تغییرات‌اقلیمی بر ذی‌نفعان حق بر آینده سبز}{31}{chapter*.24}
+\contentsline {chapter}{فصل سوم: آرمان‌های بین‌المللی، سازکارها و تعهدات حمایت از حقِ بر آینده‌سبز}{33}{chapter*.25}
+\contentsline {chapter}{نتیجه‌گیری}{35}{section*.26}
+\contentsline {chapter}{ فهرست منابع}{41}{chapter*.28}
+\contentsline {section}{منابع فارسی}{41}{section*.29}
+\contentsline {section}{منابع انگلیسی}{45}{section*.33}
+\contentsline {section}{منابع الکترونیک}{54}{section*.38}
